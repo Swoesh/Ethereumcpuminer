@@ -21,6 +21,11 @@ The miner itself takes 1% fee and the pool 0.75% so thats 1.75% fee.
 Where do i check how much i earned?
 To check how much you earned go to https://www.unmineable.com/coins/ETH/address and put in your ETH address.
 
+Need help?
+
+https://discord.gg/tkmFxxTPtF
+
+
 - Donations:
 
 BTC: 3GkfArNyXhbyjvNBKS8xgAztW4SNB9NrMf
