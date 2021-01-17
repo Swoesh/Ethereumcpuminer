@@ -1,6 +1,6 @@
 # Ethereumcpuminer
 A CPU miner that mines ETH
-This application was made with Elicoin GUI Miner and xmrig.
+- This application was made with Elicoin GUI Miner and xmrig.
 - Elicoin: https://github.com/elicoin/elicoin-gui-miner
 - xmrig: https://github.com/xmrig/xmrig
 A miner that is user friendly to mine Ethereum with your CPU.
