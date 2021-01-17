@@ -16,7 +16,7 @@ What is the fee?
 The miner itself takes 1% fee and the pool 0.75% so thats 1.75% fee.
 
 
--Donations:
+- Donations:
 
 BTC: 3GkfArNyXhbyjvNBKS8xgAztW4SNB9NrMf
 
