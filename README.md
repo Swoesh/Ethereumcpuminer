@@ -1,40 +1,45 @@
-# Ethereumcpuminer
-A CPU miner that mines ETH
-- This application was made with Elicoin GUI Miner and xmrig.
-- Elicoin: https://github.com/elicoin/elicoin-gui-miner
-- xmrig: https://github.com/xmrig/xmrig
+<h1 align="center">Ethereum CPU miner</h1>
 
-A miner that is user friendly to mine Ethereum with your CPU.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61835816/152369111-bf3f18a6-711f-4ca9-8349-9fc5f4391d86.png"></img>
+</p>
 
-But how? 
+<p align="center">
+<b>
+A miner ⛏ that is user friendly to mine Ethereum with your CPU.
+</b>
+</p>
 
-Of course you can't mine ETH with a CPU but we mine Monero (RandomX) and convert it on the pool to ETH.
+## 📜 Credits
 
-How do I start?
+- This application was made with [Elicoin GUI Miner ⇗](https://github.com/elicoin/elicoin-gui-miner) and [XMrig ⇗.](https://github.com/xmrig/xmrig)
 
-Put in your ETH address (and optional threads) and click "Start Mining".
+## ❔ But how? 
 
-What is the fee? 
+- Of course you can't mine ETH with a CPU but we mine Monero (RandomX) and convert it on the pool to ETH.
 
-The miner itself takes 1% fee and the pool 0.75% so thats 1.75% fee.
+## 👀 How do I start?
 
-Where do i check how much i earned?
+- Put in your ETH address (and optional threads) and click "Start Mining".
 
-To check how much you earned go to https://www.unmineable.com/coins/ETH/address and put in your ETH address.
+## 💹 What is the fee? 
 
-Minimum payout is 0.01 ETH
+- The miner itself takes 1% fee and the pool 0.75% so thats 1.75% fee.
 
-- Need help?
+## 🏅 Where do i check how much i earned?
 
-https://discord.gg/tkmFxxTPtF
+- To check how much you earned go to https://www.unmineable.com/coins/ETH/xxxxxxxxx and put in your ETH address.
 
+> **Minimum payout is 0.01 ETH**
 
-- Donations:
+#### 🐕‍🦺 Need help? [Visit the Discord Server ⇗.](https://discord.gg/tkmFxxTPtF)
 
-BTC: 3GkfArNyXhbyjvNBKS8xgAztW4SNB9NrMf
+## Donations:
 
-ETH: 0x102533b16aa2ea21704e3fd0c549f69cf47d3011
-
-LTC: MDTvpegc4BXvZNcHsGFLeQhjVwJCz4ksEC
-
-DOGE: D6qG7kscB8fmsAAxvAKyarYYm6F83ZV46M
+> BTC: `3GkfArNyXhbyjvNBKS8xgAztW4SNB9NrMf`
+>
+> ETH: `0x102533b16aa2ea21704e3fd0c549f69cf47d3011`
+>
+> LTC: `MDTvpegc4BXvZNcHsGFLeQhjVwJCz4ksEC`
+>
+> DOGE: `D6qG7kscB8fmsAAxvAKyarYYm6F83ZV46M`
