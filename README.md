@@ -6,43 +6,40 @@
 
 <p align="center">
 <b>
-A CPU miner ⛏ that mines ETH
+A miner ⛏ that is user friendly to mine Ethereum with your CPU.
 </b>
 </p>
 
-- This application was made with [Elicoin GUI Miner](https://github.com/elicoin/elicoin-gui-miner) and [XMrig.](https://github.com/xmrig/xmrig)
+## 📜 Credits
 
-A miner that is user friendly to mine Ethereum with your CPU.
+- This application was made with [Elicoin GUI Miner ⇗](https://github.com/elicoin/elicoin-gui-miner) and [XMrig ⇗.](https://github.com/xmrig/xmrig)
 
-But how? 
+## ❔ But how? 
 
-Of course you can't mine ETH with a CPU but we mine Monero (RandomX) and convert it on the pool to ETH.
+- Of course you can't mine ETH with a CPU but we mine Monero (RandomX) and convert it on the pool to ETH.
 
-How do I start?
+## 👀 How do I start?
 
-Put in your ETH address (and optional threads) and click "Start Mining".
+- Put in your ETH address (and optional threads) and click "Start Mining".
 
-What is the fee? 
+## 💹 What is the fee? 
 
-The miner itself takes 1% fee and the pool 0.75% so thats 1.75% fee.
+- The miner itself takes 1% fee and the pool 0.75% so thats 1.75% fee.
 
-Where do i check how much i earned?
+## 🏅 Where do i check how much i earned?
 
-To check how much you earned go to https://www.unmineable.com/coins/ETH/address and put in your ETH address.
+- To check how much you earned go to https://www.unmineable.com/coins/ETH/xxxxxxxxx and put in your ETH address.
 
-Minimum payout is 0.01 ETH
+> **Minimum payout is 0.01 ETH**
 
-- Need help?
+#### 🐕‍🦺 Need help? [Visit the Discord Server ⇗.](https://discord.gg/tkmFxxTPtF)
 
-https://discord.gg/tkmFxxTPtF
+## Donations:
 
-
-- Donations:
-
-BTC: 3GkfArNyXhbyjvNBKS8xgAztW4SNB9NrMf
-
-ETH: 0x102533b16aa2ea21704e3fd0c549f69cf47d3011
-
-LTC: MDTvpegc4BXvZNcHsGFLeQhjVwJCz4ksEC
-
-DOGE: D6qG7kscB8fmsAAxvAKyarYYm6F83ZV46M
+> BTC: `3GkfArNyXhbyjvNBKS8xgAztW4SNB9NrMf`
+>
+> ETH: `0x102533b16aa2ea21704e3fd0c549f69cf47d3011`
+>
+> LTC: `MDTvpegc4BXvZNcHsGFLeQhjVwJCz4ksEC`
+>
+> DOGE: `D6qG7kscB8fmsAAxvAKyarYYm6F83ZV46M`
